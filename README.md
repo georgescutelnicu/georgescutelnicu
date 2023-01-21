@@ -6,7 +6,6 @@
 
 
 ### ⚡ Interested in:
-- Python
 - Data Science
 - Machine learning
 - And a lot of other cool things |ʘ.ʘ)╯

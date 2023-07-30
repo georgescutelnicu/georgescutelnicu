@@ -9,10 +9,6 @@
 - And a lot of other cool things |ʘ.ʘ)╯
 <br>
 
-## ⚡ Fun Facts
-- I speak fluent Pythonic!
-- Love to play chess in my spare time!
-<br>
 
 ## ⚡ Skills
 ![Python](https://img.shields.io/badge/Python-%F0%9F%90%8D-blueviolet)

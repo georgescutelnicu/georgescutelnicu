@@ -44,8 +44,8 @@
 
 <br>
 Feel free to reach out to me for a chat (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
-
 <br>
 Happy coding! 🎉
-
-<img align='right' src='chess.jpg' width='250"'>
+<br>
+<br>
+<img align='right' src='chess.png' width='250"'>

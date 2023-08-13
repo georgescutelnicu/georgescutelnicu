@@ -20,6 +20,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%F0%9F%94%A5-red)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%F0%9F%93%9A-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%F0%9F%93%B7-blue)
+![Gradio](https://img.shields.io/badge/Gradio-%F0%9F%92%BB-blueviolet)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%98%85-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88-yellow)
 ![Power Query](https://img.shields.io/badge/Power%20Query-%F0%9F%94%8D-orange)

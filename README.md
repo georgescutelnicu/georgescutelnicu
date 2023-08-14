@@ -4,8 +4,8 @@
 <br>
 
 ## ⚡ Interested in:
-- Data Science / Data Analytics
-- Machine learning
+- Writing Code
+- Data Science / Machine Learning
 - And a lot of other cool things |ʘ.ʘ)╯
 <br>
 

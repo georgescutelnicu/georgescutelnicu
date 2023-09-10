@@ -49,9 +49,10 @@
 [![Chess](https://img.shields.io/badge/Chess-%E2%99%9A%EF%B8%8F-blue)](https://lichess.org/@/George_Scutelnicu)
 
 <br>
-Feel free to reach out to me for a chat (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 <br>
-Happy coding! 🎉
+Happy coding!<br>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧ 
+<br>
+
 <br>
 <br>
 <br>

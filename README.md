@@ -5,7 +5,7 @@
 
 ## ⚡ Interested in:
 - Writing Code
-- Data Science / Machine Learning
+- Chess
 - And a lot of other cool things |ʘ.ʘ)╯
 <br>
 

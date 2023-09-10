@@ -41,6 +41,7 @@
 
 <br>
 <br>
+
 ## ⚡ Let's Connect!
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-orange)](https://huggingface.co/georgescutelnicu)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%F0%9F%92%BB-blue)](https://www.kaggle.com/georgescutelnicu/Home)

@@ -10,7 +10,7 @@
 <br>
 
 
-## ⚡ Skills
+## ⚡ Technologies I've Worked With
 ![Python](https://img.shields.io/badge/Python-%F0%9F%90%8D-blueviolet)
 ![NumPy](https://img.shields.io/badge/NumPy-%F0%9F%8D%BF-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-%F0%9F%90%BC-blue)
@@ -18,22 +18,27 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%F0%9F%8C%8A-blueviolet)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%E2%9C%A8-orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%F0%9F%94%A5-red)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%F0%9F%93%9A-orange)
-![OpenCV](https://img.shields.io/badge/OpenCV-%F0%9F%93%B7-blue)
+![Tkinter](https://img.shields.io/badge/Tkinter-%E2%9C%A8-blue)
+![Flask](https://img.shields.io/badge/Flask-%F0%9F%8C%BF-green)
 ![BS4](https://img.shields.io/badge/BS4-%F0%9F%94%8D-green)
-![Gradio](https://img.shields.io/badge/Gradio-%F0%9F%92%BB-blueviolet)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%98%85-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88-yellow)
-![Power Query](https://img.shields.io/badge/Power%20Query-%F0%9F%94%8D-orange)
-![DAX](https://img.shields.io/badge/DAX-%F0%9F%93%88-blue)
-![Excel](https://img.shields.io/badge/Excel-%F0%9F%93%8A-green)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%A8-yellow)
 ![HTML](https://img.shields.io/badge/HTML-%E2%9C%A8-orange)
 ![CSS](https://img.shields.io/badge/CSS-%E2%9C%A8-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%E2%9C%A8-purple)
-![Flask](https://img.shields.io/badge/Flask-%F0%9F%8C%BF-green)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%98%85-blue)
+<br>
+![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88-yellow)
+![Power Query](https://img.shields.io/badge/Power%20Query-%F0%9F%94%8D-orange)
+![DAX](https://img.shields.io/badge/DAX-%F0%9F%93%88-blue)
+<br>
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%F0%9F%93%9A-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-%F0%9F%93%B7-blue)
+![Gradio](https://img.shields.io/badge/Gradio-%F0%9F%92%BB-blueviolet)
 ![Git](https://img.shields.io/badge/Git-%F0%9F%90%99-orange)
-![Data Science](https://img.shields.io/badge/Data%20Science-%E2%9D%A4-red)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%E2%9C%A8-green)
+
+
 <br>
 <br>
 ## ⚡ Let's Connect!

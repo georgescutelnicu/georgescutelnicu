@@ -46,8 +46,8 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-orange)](https://huggingface.co/georgescutelnicu)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%F0%9F%92%BB-blue)](https://www.kaggle.com/georgescutelnicu/Home)
 [![Website/Blog](https://img.shields.io/badge/Website-%F0%9F%8C%90-brightgreen)](https://georgescutelnicu.github.io/)
+[![LeetCode](https://img.shields.io/badge/Kaggle-%F0%9F%92%BB-red)](https://leetcode.com/GeorgeVS/)
 [![Chess](https://img.shields.io/badge/Chess-%E2%99%9A%EF%B8%8F-blue)](https://lichess.org/@/George_Scutelnicu)
-
 <br>
 <br>
 Happy coding!<br>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧ 

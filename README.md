@@ -16,6 +16,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%F0%9F%90%BC-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%F0%9F%93%88-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%F0%9F%8C%8A-blueviolet)
+![OpenCV](https://img.shields.io/badge/OpenCV-%F0%9F%93%B7-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%E2%9C%A8-orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%F0%9F%94%A5-red)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%E2%9C%A8-blue)
@@ -28,15 +29,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%E2%9C%A8-purple)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%98%85-blue)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%E2%98%85-green)
 <br>
 ![Power BI](https://img.shields.io/badge/Power%20BI-%F0%9F%93%88-yellow)
 ![Power Query](https://img.shields.io/badge/Power%20Query-%F0%9F%94%8D-orange)
 ![DAX](https://img.shields.io/badge/DAX-%F0%9F%93%88-blue)
 <br>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%F0%9F%93%9A-orange)
-![OpenCV](https://img.shields.io/badge/OpenCV-%F0%9F%93%B7-blue)
 ![Gradio](https://img.shields.io/badge/Gradio-%F0%9F%92%BB-blueviolet)
 ![Git](https://img.shields.io/badge/Git-%F0%9F%90%99-orange)
+![REST Api](https://img.shields.io/badge/REST--API-%E2%9C%A8-red)
 
 
 

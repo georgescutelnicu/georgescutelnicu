@@ -59,4 +59,6 @@ Happy coding!<br>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 <br>
 <br>
 <img align='left' src='banner2.gif'>
-<img align='right' src='chess.png' width='250"'>
+<a href="https://lichess.org/@/George_Scutelnicu">
+  <img align='right' src='chess.png' width='250'>
+</a>

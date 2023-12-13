@@ -58,4 +58,5 @@ Happy coding!<br>(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 <br>
 <br>
 <br>
+<img align='left' src='banner2.gif'>
 <img align='right' src='chess.png' width='250"'>

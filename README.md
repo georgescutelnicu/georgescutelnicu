@@ -14,6 +14,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-4B8BBE?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-feff7f?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-00FFFF?style=flat&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-ff8c00?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-ff4500?style=flat&logo=pytorch&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-80c3d8?style=flat&logo=fitbit&logoColor=white)

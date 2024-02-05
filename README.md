@@ -32,7 +32,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQL%20Alchemy-563d7c?style=flat&logo=sqlite&logoColor=white)
 <br>
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/-Power%20Query-F8DE7E?style=flat&logo=powerbi&logoColor=white)
 <br>
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F28C28?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1a1110?style=flat&logo=git&logoColor=white)

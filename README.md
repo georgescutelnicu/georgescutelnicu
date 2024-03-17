@@ -45,9 +45,8 @@
 
 ## ⚡ Let's Connect!
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F28C28?logo=hugo&logoColor=fff&style=flat)](https://huggingface.co/georgescutelnicu)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)](https://www.kaggle.com/georgescutelnicu/Home)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)](https://www.kaggle.com/georgescutelnicu/code)
 [![Website](https://img.shields.io/badge/Website-00D564?logo=webtrees&logoColor=fff&style=flat)](https://georgescutelnicu.github.io/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-E34F26?logo=leetcode&logoColor=fff&style=flat)](https://leetcode.com/GeorgeVS/)
 [![Chess](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat)](https://lichess.org/@/George_Scutelnicu)
 
 <br>

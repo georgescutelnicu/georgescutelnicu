@@ -20,6 +20,7 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-80c3d8?style=flat&logo=fitbit&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-454545?style=flat&logo=flask&logoColor=white)
 ![BS4](https://img.shields.io/badge/-BS4-90EE90?style=flat&logo=firefox&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-fff?style=flat&logo=opencv&logoColor=red)
 <br>
 ![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-40AEF0?style=flat&logo=openjdk&logoColor=white)

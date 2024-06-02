@@ -33,12 +33,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-008bb9?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQL%20Alchemy-563d7c?style=flat&logo=sqlite&logoColor=white)
 <br>
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazoncloudwatch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1a1110?style=flat&logo=git&logoColor=white)
 <br>
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F28C28?style=flat&logo=jupyter&logoColor=white)
-![REST Api](https://img.shields.io/badge/-REST%20Api-06768d?style=flat&logo=fastapi&logoColor=white)
 
 
 

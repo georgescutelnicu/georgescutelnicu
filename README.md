@@ -18,7 +18,7 @@
 
 | **Interests**                                | **Open Source Contributions**              | **Links**                                     |
 |----------------------------------------------|--------------------------------------------|-----------------------------------------------|
-| <ul><li>Coding :computer:</li><li>Chess ♟️</li><li>Taking naps 💤</li><li>And a lot of other cool things (ʘ.ʘ)╯</li></ul> | <ul><li>[Narwhals](https://github.com/narwhals-dev/narwhals) - Documentation</li><li>[Mousam](https://github.com/amit9838/mousam) - Bug Fix (Forecast Data Sync),<br> Enhancement (Scrollbar Offset)</li></ul> | <ul><li>[Website](https://georgescutelnicu.github.io)</li><li>[HuggingFace](https://huggingface.co/georgescutelnicu)</li><li>[Kaggle](https://www.kaggle.com/georgescutelnicu/code)</li><li>[Chess](https://lichess.org/@/George_Scutelnicu)</li></ul> |
+| <ul><li>Coding :computer:</li><li>Chess ♟️</li><li>Taking naps 💤</li><li>And a lot of other cool things (ʘ.ʘ)╯</li></ul> | <ul><li>[Narwhals](https://github.com/narwhals-dev/narwhals) [~800 ★] - Documentation</li><li>[Mousam](https://github.com/amit9838/mousam) [~300 ★] - Bug Fix; Enhancement</li></ul> | <ul><li>[Website](https://georgescutelnicu.github.io)</li><li>[HuggingFace](https://huggingface.co/georgescutelnicu)</li><li>[Kaggle](https://www.kaggle.com/georgescutelnicu/code)</li><li>[Chess](https://lichess.org/@/George_Scutelnicu)</li></ul> |
 
 <br>
 <br>

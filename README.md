@@ -6,10 +6,7 @@
       <img src="stitch.png" alt="Image" width="200">
     </td>
     <td>
-       I am a tech enthusiast who loves learning new things, solving problems, and exploring new technologies.<br>
-       I enjoy creating projects, sharing knowledge, and contributing to the open-source community.<br>
-       I’m always curious about how things work and love experimenting with new ideas and tools.<br>
-       In the tech world there’s always something exciting to discover!
+       I'm a tech enthusiast who loves learning new things, solving problems, and exploring the latest<br> technologies. I enjoy creating projects that challenge my skills, sharing knowledge with others,<br> and contributing to open-source communities to help push innovation forward. My curiosity<br> drives me to experiment with new ideas, tools, and techniques, constantly looking for ways<br> to improve and expand my understanding. In the fast-moving world of technology, there’s<br> always something exciting to discover, and I love being part of that journey.
     </td>
   </tr>
 </table>
@@ -26,4 +23,3 @@
 <br>
 
 I write code, break things, and sometimes… they even work!<br>
-Accidentally push ```main``` at 3 AM? Just part of the adventure!<br>

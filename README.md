@@ -1,25 +1,23 @@
-## Hi there! 👋
+# Hi there 👋
 
-<table>
-  <tr>
-    <td>
-      <img src="stitch.png" alt="Image" width="200">
-    </td>
-    <td>
-       I'm a tech enthusiast who loves learning new things, solving problems, and exploring the latest<br> technologies. I enjoy creating projects that challenge my skills, sharing knowledge with others,<br> and contributing to open-source communities to help push innovation forward. My curiosity<br> drives me to experiment with new ideas, tools, and techniques, constantly looking for ways<br> to improve and expand my understanding. In the fast-moving world of technology, there’s<br> always something exciting to discover, and I love being part of that journey.
-    </td>
-  </tr>
-</table>
+I’m **George**, a self-taught developer who loves building, experimenting, and learning new things.  
+I enjoy exploring new technologies, solving problems, and creating projects that actually *work*.  
+Always curious, always improving. That’s the fun part of the journey.
 
 ---
 
-| **Interests**                                | **Open Source Contributions**              | **Links**                                     |
-|----------------------------------------------|--------------------------------------------|-----------------------------------------------|
-| <ul><li>Coding :computer:</li><li>Chess ♟️</li><li>Taking naps 💤</li><li>And a lot of other cool things (ʘ.ʘ)╯</li></ul> | <ul><li>[Narwhals](https://github.com/narwhals-dev/narwhals) [~1k ★] - Documentation</li><li>[Mousam](https://github.com/amit9838/mousam) [~300 ★] - Bug Fix; Enhancement</li></ul> | <ul><li>[Website](https://georgescutelnicu.github.io)</li><li>[HuggingFace](https://huggingface.co/georgescutelnicu)</li><li>[Kaggle](https://www.kaggle.com/georgescutelnicu/code)</li></ul> |
+### What I’m into
+- Building and breaking things to understand how they work  
+- Exploring open-source projects
+- Chess, coding marathons, and power naps  
 
-<br>
-<br>
-<br>
-<br>
+---
 
-I write code, break things, and sometimes… they even work!<br>
+### Open Source
+- **[Narwhals](https://github.com/narwhals-dev/narwhals)** - contributed to project documentation  
+- **[Mousam](https://github.com/amit9838/mousam)** - resolved forecast display issues and improved widget behavior  
+- **[Skrub](https://github.com/skrub-data/skrub)** - implemented a global float precision configuration for reports  
+
+---
+
+I write code, break things, and sometimes… they even work.
